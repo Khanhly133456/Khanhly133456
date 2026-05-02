@@ -11,7 +11,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "y"
+    "start": "node index.js",
+    "test": "echo \"No test yet\""
   },
   "dependencies": {
     "express": "^4.18.2"
